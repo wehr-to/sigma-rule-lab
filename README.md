@@ -1,6 +1,6 @@
 # Sigma Rule Lab 🧪
 
-Welcome to the Sigma Rule Lab — a structured repo for learning how to write, test, and simulate Sigma rules like a modern blue teamer or security engineer.
+Welcome to the Sigma Rule Lab, a structured repo for learning how to write, test, and simulate Sigma rules like a modern blue teamer or security engineer.
 
 ## 🔎 What is Sigma?
 
